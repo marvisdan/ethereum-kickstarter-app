@@ -16,7 +16,6 @@ export default ({ children }) => {
 
 			<Header />
 			{children}
-			<h1>Footer</h1>
 		</Container>
 	);
 };
